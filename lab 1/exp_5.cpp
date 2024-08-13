@@ -2,7 +2,7 @@
 using namespace std;
  struct arithmetic{
     float no1,no2;
-}c;
+};
 void add(int no1,int no2){
     cout<<no1<<"+"<<no2<<"="<<(no1+no2)<<endl;
 }
