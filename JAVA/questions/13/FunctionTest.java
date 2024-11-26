@@ -1,5 +1,7 @@
 //Question 13
 
+
+
 interface Function {
     int evaluate(int x);
 }
